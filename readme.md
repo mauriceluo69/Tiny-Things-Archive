@@ -12,6 +12,6 @@ Check out `1-Endian.cpp`.
 
 Make the function perform as a parameter of another function
 
-函数作为参数传递
+函数作为参数传递, Check out `2-Closure.py`
 
 #### 3. Coming...
